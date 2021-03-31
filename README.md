@@ -4,7 +4,7 @@ My name is Douglas, I'm from Brazil and I'm starting my journey in programming.
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 - 📍 From RJ - Nova Iguaçu.
 - 👀 I’m interested in making connections and improving my developer skills. Feel free to give me any tips.
-- 📚 I’m currently learning more about JS, and Git.
+- 📚 I’m currently learning more about HTML, CSS & JS.
 - 🖥️ I want to collaborate on projects, learn new things and improve myself as a developer.
 - 📫 How to reach me 👇
 
