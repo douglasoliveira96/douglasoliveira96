@@ -1,8 +1,8 @@
 ### Hey! Welcome to my profile! How is it going? 👋😄
 
 My name is Douglas, I'm from Brazil and I'm starting my journey in programming.  
-### 🌍 "Ideias e somente ideias podem iluminar a escuridão." 🧠
-- 📍 From RJ - Nova Iguaçu.
+### 🌍 "Ideas and only ideas can illuminate the darkness" 🧠
+- 📍 From Rio de Janeiro - Nova Iguaçu.
 - 👀 I’m interested in making connections and improving my developer skills. Feel free to give me any tips.
 - 📚 I’m currently learning more about HTML, CSS & JS.
 - 🖥️ I want to collaborate on projects, learn new things and improve myself as a developer.
