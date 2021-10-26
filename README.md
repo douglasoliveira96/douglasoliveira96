@@ -1,4 +1,4 @@
-# Hey! Welcome to my profile! How is it going? 👋😄
+# Hey! Welcome to my profile! How is it going? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## My name is Douglas, I'm from Brazil and I'm starting my journey in programming.  
 ### 🌍 "Ideas and only ideas can illuminate the darkness" 🧠
