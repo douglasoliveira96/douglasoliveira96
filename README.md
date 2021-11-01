@@ -4,7 +4,7 @@
 ### 🌍 "Ideas and only ideas can illuminate the darkness" 🧠
 - 📍 From Rio de Janeiro - Nova Iguaçu.
 - 👀 I’m interested in making connections and improving my developer skills. Feel free to give me any tips.
-- 📚 I’m currently learning more about HTML, CSS & JS.
+- 📚 I’m currently learning more about PYTHON, HTML, CSS & JS.
 - 🖥️ I want to collaborate on projects, learn new things and improve myself as a developer.
 - 📫 How to reach me 👇
 
