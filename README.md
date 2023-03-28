@@ -14,7 +14,6 @@
   
 ![working](https://user-images.githubusercontent.com/79033956/113070859-ec92ce80-9199-11eb-95f3-ffa5aebf4cf1.gif)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasoliveira96&hide=scss&layout=compact&theme=tokyonight)
 <div style="display: inline_block">
   <img align="center" alt="Douglas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Douglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
